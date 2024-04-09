@@ -1,6 +1,6 @@
 # DataStructures and Algorithms in C/C++
 
-This code is written by Amit Bansal while learning Data structures and algorithms.
+This code is written by Shubh Sharma while learning Data structures and algorithms.
 References GFG, NPTEL, CLRS.
 
 This repository contains:
